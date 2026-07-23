@@ -1,2 +1,2 @@
-# Netlify redirects — force non-www + canonical clean paths
-https://www.jetskiday.day/*   https://jetskiday.day/:splat   301!
+# www -> apex redirect handled via Cloudflare Redirect Rules (zone level),
+# since Workers Assets _redirects only allows relative URLs.
