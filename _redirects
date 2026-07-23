@@ -1,0 +1,2 @@
+# Netlify redirects — force non-www + canonical clean paths
+https://www.jetskiday.day/*   https://jetskiday.day/:splat   301!
