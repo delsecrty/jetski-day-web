@@ -1,3 +1,4 @@
 .DS_Store
 Thumbs.db
-.cache/
+.cach
+node_modules/e/
